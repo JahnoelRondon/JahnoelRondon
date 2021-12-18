@@ -5,8 +5,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JahnoelRondon&hide=stars,issues&theme=blue-green&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JahnoelRondon&theme=blue-green&repo=convoychat" />
 </a>
+
+
+
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JahnoelRondon&hide=stars,issues&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
