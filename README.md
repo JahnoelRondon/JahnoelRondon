@@ -8,13 +8,10 @@
 
 <p align="center">I am a self taught software engineer in Bethesda Maryland. I first saw a coding class in highschool for java making small games and websites and was hooked ever since. If I am not coding im playing the piano, working out, making food or spending time with loved ones.</p>
 
-<h3 align="center">Reach out to me:</h3>
+<h3 align="center">Reach out to me! <a href="https://www.linkedin.com/in/jahnoel-rondon/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a></h3>
 
-<a href="https://www.linkedin.com/in/jahnoel-rondon/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+<a href="https://www.linkedin.com/in/jahnoel-rondon/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
