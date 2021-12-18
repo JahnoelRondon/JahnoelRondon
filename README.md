@@ -2,7 +2,7 @@
 <h1 align="center">A little bit about me!</h1>
 
 <p align="center" href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=JahnoelRondon&hide=stars,issues&theme=blue-green&repo=github-readme-stats" />
+  <img height=200px src="https://github-readme-stats.vercel.app/api?username=JahnoelRondon&hide=stars,issues&theme=blue-green&repo=github-readme-stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JahnoelRondon&theme=blue-green&repo=convoychat" />
 </p>
 
