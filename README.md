@@ -5,8 +5,8 @@
 <h2 align="center">Some Stats</h2>
 
 <p align="center" href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200px src="https://github-readme-stats.vercel.app/api?username=JahnoelRondon&hide=stars,issues&theme=blue-green&repo=github-readme-stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JahnoelRondon&theme=blue-green&repo=convoychat" />
+  <img width=100px height=200px src="https://github-readme-stats.vercel.app/api?username=JahnoelRondon&hide=stars,issues&theme=blue-green&repo=github-readme-stats" />
+  <img width=100px src="https://github-readme-stats.vercel.app/api/top-langs/?username=JahnoelRondon&theme=blue-green&repo=convoychat" />
 </p>
 
 <h2 align="center">Proficiencies:</h2>
@@ -33,7 +33,6 @@
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white">
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
 </p>
 
