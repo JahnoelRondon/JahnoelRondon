@@ -5,8 +5,8 @@
 <h2 align="center">Some Stats</h2>
 
 <p align="center" href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=210px src="https://github-readme-stats.vercel.app/api?username=JahnoelRondon&hide=stars,issues&theme=blue-green&repo=github-readme-stats" />
-  <img height=210px src="https://github-readme-stats.vercel.app/api/top-langs/?username=JahnoelRondon&layout=compact&theme=blue-green&repo=convoychat" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JahnoelRondon&hide=stars,issues&theme=blue-green&repo=github-readme-stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JahnoelRondon&layout=compact&theme=blue-green&repo=convoychat" />
 </p>
 
 <h2 align="center">Proficiencies:</h2>
