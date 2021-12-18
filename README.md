@@ -3,7 +3,6 @@
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JahnoelRondon&theme=tokyonight](https://github.com/anuraghazra/github-readme-stats)
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JahnoelRondon&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
