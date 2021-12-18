@@ -10,11 +10,10 @@
 
 <h3 align="center">Reach out to me! <a href="https://www.linkedin.com/in/jahnoel-rondon/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a></h3>
 
-<a href="https://www.linkedin.com/in/jahnoel-rondon/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a align="center" href="https://www.linkedin.com/in/jahnoel-rondon/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
 
