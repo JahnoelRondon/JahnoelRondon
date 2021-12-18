@@ -2,6 +2,7 @@
 
 <p align="center">I am a self taught software engineer in Bethesda Maryland. I first saw a coding class in highschool for java making small games and websites and was hooked ever since. If I am not coding im playing the piano, working out, making food or spending time with loved ones.</p>
 
+<h2 align="center">Some Stats</h2>
 
 <p align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200px src="https://github-readme-stats.vercel.app/api?username=JahnoelRondon&hide=stars,issues&theme=blue-green&repo=github-readme-stats" />
