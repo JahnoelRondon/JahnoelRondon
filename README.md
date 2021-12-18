@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">A little bit about me!</h1>
-<p align="center>I am a self taught software engineer in Bethesda Maryland. I first saw a coding class in highschool for java making small games and websites and was hooked ever since. If I am not coding im playing the piano, working out, making food or spending time with loved ones.</p>
+<p align="center">I am a self taught software engineer in Bethesda Maryland. I first saw a coding class in highschool for java making small games and websites and was hooked ever since. If I am not coding im playing the piano, working out, making food or spending time with loved ones.</p>
           
           
 <!--
