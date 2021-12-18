@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Jahnoel's GitHub stats](https://github-readme-stats.vercel.app/api?username=JahnoelRondon&hide=stars,issues&count_private=true&show-icons=true&theme=merko)
+![Jahnoel's GitHub stats](https://github-readme-stats.vercel.app/api?username=JahnoelRondon&hide=stars,issues&count_private=true&show-icons=true&theme=merko&bg_color=#FFFFFF)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JahnoelRondon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
