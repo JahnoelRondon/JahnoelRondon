@@ -1,8 +1,8 @@
 
 <h1 align="center">A little bit about me!</h1>
-<p align="center>[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JahnoelRondon&hide=stars,issues&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)</p>
+<p align="center></p>
 
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JahnoelRondon&hide=stars,issues&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JahnoelRondon&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
