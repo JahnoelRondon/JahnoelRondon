@@ -10,6 +10,10 @@
 
 <h3 align="center">Reach out to me:</h3>
 
+<a href="https://www.linkedin.com/in/jahnoel-rondon/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
