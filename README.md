@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Jahnoel's GitHub stats](https://github-readme-stats.vercel.app/api?username=JahnoelRondon&hide=stars,issues)
+![Jahnoel's GitHub stats](https://github-readme-stats.vercel.app/api?username=JahnoelRondon&hide=stars,issues&count_private=true)
 
 
 
