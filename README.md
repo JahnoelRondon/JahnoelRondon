@@ -9,7 +9,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JahnoelRondon&theme=blue-green&repo=convoychat" />
 </p>
 
-<h3 align="center">Proficiencies:</h3>
+<h2 align="center">Proficiencies:</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
