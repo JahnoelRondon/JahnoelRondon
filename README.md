@@ -3,7 +3,7 @@
 
 <p align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height=200px src="https://github-readme-stats.vercel.app/api?username=JahnoelRondon&hide=stars,issues&theme=blue-green&repo=github-readme-stats" />
-  <img align="center" height=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=JahnoelRondon&theme=blue-green&repo=convoychat" />
+  <img align="center" height=200px  width=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=JahnoelRondon&theme=blue-green&repo=convoychat" />
 </p>
 
 
