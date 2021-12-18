@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![Jahnoel's GitHub stats](https://github-readme-stats.vercel.app/api?username=JahnoelRondon)](https://github.com/anuraghazra/github-readme-stats)
-![Jahnoel's GitHub stats](https://github-readme-stats.vercel.app/api?username=JahnoelRondon&hide=contribs,prs)
+![Jahnoel's GitHub stats](https://github-readme-stats.vercel.app/api?username=JahnoelRondon&hide=stars,issues)
 
 
 
