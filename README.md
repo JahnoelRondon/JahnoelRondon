@@ -3,7 +3,7 @@
 
 <p align="center></p>
 
-![Jahnoel's GitHub stats](https://github-readme-stats.vercel.app/api?username=JahnoelRondon&show_icons=true&hide=stars,issues&count_private=true)
+[![Jahnoel's GitHub stats](https://github-readme-stats.vercel.app/api?username=JahnoelRondon&show_icons=true&hide=stars,issues&count_private=true)
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JahnoelRondon&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
