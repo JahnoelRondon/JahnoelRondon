@@ -36,10 +36,10 @@
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
 </p>
 
-<h3 align="center">Reach out to me! <a href="https://www.linkedin.com/in/jahnoel-rondon/" align="center" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a></h3>
+<h3 align="center">Reach out to me!</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/jahnoel-rondon/" align="center">
+<a href="https://www.linkedin.com/in/jahnoel-rondon/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </p>
