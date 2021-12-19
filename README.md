@@ -38,9 +38,11 @@
 
 <h3 align="center">Reach out to me! <a href="https://www.linkedin.com/in/jahnoel-rondon/" align="center" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a></h3>
 
+<p align="center">
 <a href="https://www.linkedin.com/in/jahnoel-rondon/" align="center">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+</p>
           
 <!--
 **JahnoelRondon/JahnoelRondon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
