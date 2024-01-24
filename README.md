@@ -1,6 +1,6 @@
 <h2 align="center">A little bit about me!</h2>
 
-<p align="center">I am a self taught software engineer in Bethesda Maryland. I first saw a coding class in highschool for java making small games and websites and was hooked ever since. If I am not coding im playing the piano, working out, making food or spending time with loved ones. For more information about me and what I do please visit my <a href='https://www.jayrondon.com/'>portfolio</a>.</p>
+<p align="center">I am a self taught software engineer in Bethesda Maryland. I first saw a coding class in highschool for java making small games and websites and was hooked ever since. If I am not coding im playing the piano, working out, making food or spending time with loved ones. For more information about me and what I do please visit my <a href='https://jayrondon.netlify.app/'>portfolio</a>.</p>
 
 <h2 align="center">Some Stats</h2>
 
